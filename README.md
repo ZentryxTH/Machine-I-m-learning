@@ -5,6 +5,12 @@ This is my training session for ML by Python
 
 Learning session:
 
+Python (Pandas, Numpy, Matplotlib, OpenCV)
+
+TensorFlow
+
+Pytorch
+
 Fundamental of Machine Learning
 
 Advance ML
@@ -15,6 +21,7 @@ Artificial Intelligence
 
 
 Documentary for Learning
+
 IBM : https://www.ibm.com/topics/machine-learning
 
 
