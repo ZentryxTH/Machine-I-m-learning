@@ -24,5 +24,8 @@ Documentary for Learning
 
 IBM : https://www.ibm.com/topics/machine-learning
 
+GeeksforGeeks : https://www.geeksforgeeks.org/machine-learning/
+
+W3school : https://www.w3schools.com/ai/default.asp
 
 More training : https://labex.io/skilltrees/ml
