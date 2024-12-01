@@ -9,3 +9,9 @@ Fundamental of Machine Learning
 Advance ML
 Deep learning
 Artificial Intelligence
+
+Documentary for Learning
+IBM : https://www.ibm.com/topics/machine-learning
+
+
+More training : https://labex.io/skilltrees/ml
