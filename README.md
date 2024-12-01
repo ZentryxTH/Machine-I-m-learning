@@ -6,9 +6,13 @@ This is my training session for ML by Python
 Learning session:
 
 Fundamental of Machine Learning
+
 Advance ML
+
 Deep learning
+
 Artificial Intelligence
+
 
 Documentary for Learning
 IBM : https://www.ibm.com/topics/machine-learning
